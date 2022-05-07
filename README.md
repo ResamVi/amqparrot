@@ -23,10 +23,11 @@ Or download a pre-compiled binary from here
 
 | Version 1.0.0    |                                                                                                          |
 |------------------|----------------------------------------------------------------------------------------------------------|
-| Windows (64-bit) | <a href="https://github.com/ResamVi/spayle/releases/download/1.0.0-alpha/windows-x32.zip">Download</a><br> |
-| Mac              | <a href="https://github.com/ResamVi/spayle/releases/download/1.0.0-alpha/mac-x64.zip">Download</a>       |
-| Linux            | <a href="https://github.com/ResamVi/spayle/releases/download/1.0.0-alpha/linux-x32.tar">Download</a>     |
-| Source           | <a href="https://github.com/ResamVi/spayle/releases/download/1.0.0-alpha/linux-x32.tar">Download</a>     |
+| Windows (64-bit) | <a href="https://github.com/ResamVi/amqparrot/releases/download/v1.0.0/amqparrot_win.exe">Download</a>   |
+| Mac              | <a href="https://github.com/ResamVi/amqparrot/releases/download/v1.0.0/amqparrot_mac">Download</a>       |
+| Mac (ARM)        | <a href="https://github.com/ResamVi/amqparrot/releases/download/v1.0.0/amqparrot_arm">Download</a>       |
+| Linux            | <a href="https://github.com/ResamVi/amqparrot/releases/download/v1.0.0/amqparrot_linux">Download</a>     |
+| Source (zip)     | <a href="https://github.com/ResamVi/amqparrot/archive/refs/tags/v1.0.0.zip">Download</a>                 |
 
 
 ## Usage
